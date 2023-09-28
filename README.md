@@ -1,2 +1,2 @@
-# vp23
+# VP23
 veebiprogrammeerimise kursuse repusitooruim
